@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="256" fill="#0A0A0A"/>
+  
+  <!-- V Letter with Leaf Design -->
+  <path d="M256 140L200 340H230L256 250L282 340H312L256 140Z" fill="#8B6F47"/>
+  <path d="M256 140L200 340H230L256 250L282 340H312L256 140Z" fill="url(#gradient1)"/>
+  
+  <!-- Leaf/Vitality Symbol -->
+  <path d="M320 180C320 180 340 200 340 230C340 260 320 280 290 280C290 280 310 260 310 230C310 200 290 180 290 180C290 180 310 160 320 180Z" fill="#C4A574"/>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient1" x1="256" y1="140" x2="256" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C4A574"/>
+      <stop offset="100%" stop-color="#8B6F47"/>
+    </linearGradient>
+  </defs>
+</svg>
